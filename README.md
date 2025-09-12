@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.pontis.com/logo.png" alt="Pontis Systems LTD Logo" width="200" />
+  <img src="https://github.com/pontissystems/pontissystems/edit/main/public/logo.webp" alt="Pontis Systems LTD Logo" width="200" />
 </p>
 
 # Hi there 👋 Welcome to Pontis Systems LTD
